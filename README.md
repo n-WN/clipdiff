@@ -2,6 +2,8 @@
 
 专为优化 LLM 输出代码比较体验而设计的 Bash 脚本。当你从 LLM 复制代码时，可以快速与本地文件进行对比，精准识别差异并支持语法高亮显示。
 
+<img width="1369" height="386" alt="image" src="https://github.com/user-attachments/assets/18d48724-7968-4687-b2da-21f2ae0ba2ed" />
+
 ## 功能特性
 
 - **LLM 工作流优化**：专为从 Claude、ChatGPT 等 LLM 复制代码的场景设计
