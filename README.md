@@ -20,7 +20,7 @@
    ```bash
    chmod +x clipdiff.sh
    ```
-3. 放到 SHELL 配置, 方便全局使用:
+3. 放到 SHELL 配置文件，方便全局使用（按需更改）：
    ```bash
    echo "alias clipdiff=\"$PWD/clipdiff.sh\"" >> ~/.zshrc
    ```
